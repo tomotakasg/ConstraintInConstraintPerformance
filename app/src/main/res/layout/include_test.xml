@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:parentTag="androidx.constraintlayout.widget.ConstraintLayout">
 
-    <!--  constraintの中にあるとして属性を指定する  -->
+    <!--  constraintの中にあるとして属性を指定する。  -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
