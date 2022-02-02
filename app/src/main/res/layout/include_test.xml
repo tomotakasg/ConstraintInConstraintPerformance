@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:parentTag="androidx.constraintlayout.widget.ConstraintLayout">
+    <!-- parentTagで指定 -->
 
     <!--  constraintの中にあるとして属性を指定する  -->
     <TextView
